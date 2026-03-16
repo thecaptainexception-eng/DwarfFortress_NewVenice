@@ -1,4 +1,9 @@
 # DwarfFortress_NewVenice
+## Welcome To New Venice 
+before reading enjoy these scenic photos taken for the brochure sent out to distant Dwarven Strongholds
+![The Beautiful Warm Forested Island Fortress Of New Venice As Seen From Above](Brochure Images/NewVeniceWillHaveAFutureAsBrightAsThePlanetInanna.png)   
+![The Famous maze-like Kobold Caves Of New Venice When The Were First Discovered before eventually being sealed off out of respect for the ecology of this ancient world](Brochure Images/Screenshot 2026-03-13 220517.png)
+![The Wonderful World Around New Venice Taken on The Year Of Its Founding](Brochure Images/The World OF New Venice In The Beginnning.png)
 ## A Dwarf Fortress Save 	
 which I will treat as a computer program since it will need version control and I want to add color to it in the form of other people's branches to its history (henceforth "other people" will be referred to as the mind swarm or as Mind Swarm)
 # According To Captain Exception
