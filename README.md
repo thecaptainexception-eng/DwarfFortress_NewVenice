@@ -13,8 +13,10 @@ which I will treat as a computer program since it will need version control and 
 	I have grown fond of how it exceptionally has a kobold cave"
 # Naming Conventions:
 ## Written in regex
+`
 ^Prime_Timeline_$(^Cont_$|^Branch_$)(d^of_Branch_$d|d)_(^Milestone$|^Downfall$)
 ^Contributary_Timeline_$\[A-Za-z\](^Cont_$|^Branch_$)(d^of_Branch_$d|d)
+`
 ### Explanation
 the number following Cont_ is the continuation iteration, so thats an increment of the current branch
 the number following Branch_ is the number of times the timeline has jumped into an alternate past, so it increments whenever a downfall forces the timeline to rewind, but can also increment of a new timeline from someone the Mind Swarm becomes the prefered timeline.
