@@ -9,7 +9,7 @@ which I will treat as a computer program since it will need version control and 
 	Venice is noteworthy to me as a place tied to the modern world's acceptance of the multiversal 
 	framework for visualizing the passage of time.
 	I will have fun sculpting a canal-rich empire out of New Venice, allowing each milestone and 
-	eacch failure to branch a  multiverse of thriving outcomes with you dear Mind Swarm. 
+	each failure to branch a  multiverse of thriving outcomes with you dear Mind Swarm. 
 	I have grown fond of how it exceptionally has a kobold cave"
 # Naming Conventions:
 ## Written in regex
