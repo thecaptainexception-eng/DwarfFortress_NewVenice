@@ -14,8 +14,8 @@ which I will treat as a computer program since it will need version control and 
 # Naming Conventions:
 ## Written in regex
 ^Prime_Timeline_$(^Cont_$|^Branch_$)(d^of_Branch_$d|d)_(^Milestone$|^Downfall$)
-^Contributary_Timeline_$+[A-Za-z](^Cont_$|^Branch_$)(d^of_Branch_$d|d)
+^Contributary_Timeline_$\[A-Za-z\](^Cont_$|^Branch_$)(d^of_Branch_$d|d)
 ### Explanation
 the number following Cont_ is the continuation iteration, so thats an increment of the current branch
 the number following Branch_ is the number of times the timeline has jumped into an alternate past, so it increments whenever a downfall forces the timeline to rewind, but can also increment of a new timeline from someone the Mind Swarm becomes the prefered timeline.
-Contributary_Timeline_ is like a tributary in the river of time which contributes to the diversity of the multiverse surrounding New Venice while the +"A-Za-z" section is just the title, please only use letters, and try to make yours unique dear atoms of the mind swarm.
+Contributary_Timeline_ is like a tributary in the river of time which contributes to the diversity of the multiverse surrounding New Venice while the +\[A-Za-z\] section is just the title, please only use letters, and try to make yours unique dear atoms of the mind swarm.
