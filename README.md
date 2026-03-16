@@ -1,11 +1,11 @@
 # DwarfFortress_NewVenice
 ## Welcome To New Venice 
 before reading enjoy these scenic photos taken for the brochure sent out to distant Dwarven Strongholds
-<img src="https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure%20Images/NewVeniceWillHaveAFutureAsBrightAsThePlanetInanna.png"alt="The Beautiful Warm Forested Island Fortress Of New Venice As Seen From Above">
+![The Beautiful Warm Forested Island Fortress Of New Venice As Seen From Above](https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure_Images/NewVeniceWillHaveAFutureAsBrightAsThePlanetInanna.png)
 
-<img src="https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure%20Images/Screenshot%202026-03-13%20220517.png"alt="The Famous maze-like Kobold Caves Of New Venice When The Were First Discovered before eventually being sealed off out of respect for the ecology of this ancient world">
+![The Famous maze-like Kobold Caves Of New Venice](https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure_Images/Screenshot_2026-03-13_220517.png)
 
-<img src="https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure%20Images/The%20World%20OF%20New%20Venice%20In%20The%20Beginnning.png"alt="The Wonderful World Around New Venice Taken on The Year Of Its Founding">
+![The Wonderful World Around New Venice](https://raw.githubusercontent.com/thecaptainexception-eng/DwarfFortress_NewVenice/7b9d8a30a5b1d2f50dca83449dd29d17c1e168be/Brochure_Images/The_World_OF_New_Venice_In_The_Beginnning.png)   
 
 ## A Dwarf Fortress Save 	
 which I will treat as a computer program since it will need version control and I want to add color to it in the form of other people's branches to its history (henceforth "other people" will be referred to as the mind swarm or as Mind Swarm)
