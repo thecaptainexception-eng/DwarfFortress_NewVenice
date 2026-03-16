@@ -3,7 +3,7 @@
 which I will treat as a computer program since it will need version control and I want to add color to it in the form of other people's branches to its history (henceforth "other people" will be referred to as the mind swarm or as Mind Swarm)
 # According To Captain Exception
 	"A long time ago, people, by which I mean the humans I imagined when I created this world, 
-	they used to hand-code procedural dialogue engines, one such monument to this art, is the game Dwarf Fortress, 
+	they used to hand-code procedural dialogue engines, one such monument to this art, is the game Dwarf Fortress , 
 	my goal is to protect this odd fortress I have named "New Venice" in honor of Earth's very own, as historically 
 	Venice is noteworthy to me as a place tied to the modern world's acceptance of the multiversal framework for visualizing the passage of time.
 	I will have fun sculpting a canal-rich empire out of New Venice, allowing each milestone and 
