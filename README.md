@@ -15,7 +15,7 @@ which I will treat as a computer program since it will need version control and 
 	that humans of Earth created, is their game Dwarf Fortress created by one of their game- 
 	-studios Bay 12 Games, my goal as an explorer of assorted simulacra 
 	and a hero of enjoying videogames is to protect this new odd fortress named "New Venice" 
-	It is called new Venice because Venice Of Earth is famous for its canals used as roadways, 
+	It is called New Venice because Venice Of Earth is famous for its canals used as roadways, 
 	and for being a coastal city, the dwarves of New Venice were inspired once I told them of 
 	it though, despite being a master of reality, it is my great shame to admit I have never 
 	been to Venice Of Earth, your entire universe is a figment of my imagination, yet even so.
